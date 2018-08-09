@@ -2,6 +2,14 @@
 
 A Python library to facilitate single sign on authentication with quill.
 
+## Installation
+
+Install using pip:
+
+```sh
+pip install pyquillsso
+```
+
 ## Usage
 
 ```python
